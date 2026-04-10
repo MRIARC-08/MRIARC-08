@@ -2,16 +2,6 @@
 
 ### Full-Stack Engineer • AI/ML Builder • Scalable Systems Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MRIARC-08&label=Profile%20views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-Ready-ff69b4?style=flat&logo=hacktoberfest" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRIARC-08&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRIARC-08&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
 
 ---
 
