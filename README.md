@@ -1,52 +1,141 @@
 # 👨‍💻 Adarsh Chauhan | MRIARC-08
-### Full-Stack Developer • Specialized in MERN & Next.js
+
+### Full-Stack Engineer • AI/ML Builder • Scalable Systems Enthusiast
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRIARC-08&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRIARC-08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=MRIARC-08&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Ready-ff69b4?style=flat&logo=hacktoberfest" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MRIARC-08&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRIARC-08&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌟 Project In Focus: Vidya Setu
-**Bridging the gap in Higher Education through AI-driven Research & Curation.**
+# 🚀 About Me
 
-Vidya Setu is an intelligent platform engineered to streamline the way academic research is curated and evaluated. It focuses on high-accuracy synthesis to help students and researchers navigate complex information.
+I build **production-ready full-stack applications** and **AI-integrated platforms** focused on solving real-world workflow problems.
 
-- 🛠️ **The Stack:** Built with **Next.js**, **Node.js**, **Prisma**, and **Advanced AI Models**.
-- 🚀 **Core Goal:** Revolutionizing academic workflows with intelligent curation.
-- 🔧 **Key Features:** Deep data modeling, research paper evaluation, and seamless user experience.
+Currently growing as a **systems-oriented software engineer with an AI/ML focus**, working across:
 
----
-
-## 🛠️ My Tech Stack
-
-### **Frontend Mastery**
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+* scalable backend architecture
+* intelligent research tooling
+* modern frontend systems
+* cloud-native deployment workflows
 
 ---
 
-## 📊 Activity & Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRIARC-08&theme=radical&hide_border=true)
+# 🌟 Featured Project — Vidya Setu
+
+### Bridging the gap in Higher Education using AI-driven Research Intelligence
+
+**Vidya Setu** is an intelligent academic workflow platform designed to help students and researchers navigate complex research faster and more accurately.
+
+### Core Highlights
+
+🧠 AI-powered research evaluation pipeline
+⚡ Optimized data modeling with Prisma
+🔍 Structured knowledge synthesis workflows
+📊 Research-centric UX design architecture
+
+### Tech Stack
+
+Next.js • Node.js • Prisma ORM • MongoDB • Advanced AI APIs
 
 ---
 
-## ⚡ Personal Quick-Bits
-- 📍 Based in **Panipat, Haryana**.
-- 🛠️ Focused on building **scalable backends** and **clean architecture**.
-- 🎮 Enjoying **League of Legends** when not debugging.
+# 🧠 Engineering Focus Areas
 
-## 📫 Let's Connect
-<p align="left">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+```txt
+Full-Stack Architecture
+AI-Integrated Applications
+Research Automation Platforms
+Scalable Backend Systems
+Cloud-Native Deployments
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend Engineering
+
+Next.js
+React
+TypeScript
+Tailwind CSS
+
+### Backend Engineering
+
+Node.js
+Express
+Prisma ORM
+REST APIs
+Authentication Systems (JWT)
+
+### Databases
+
+MongoDB
+PostgreSQL
+
+### DevOps & Systems
+
+Docker
+Kubernetes
+NGINX
+HTTPS Deployment Pipelines
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRIARC-08&theme=radical&hide_border=true"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MRIARC-08/MRIARC-08/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎃 Hacktoberfest Participation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge&logo=hacktoberfest"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+# ⚡ Personal Quick Bits
+
+📍 Based in Haryana, India
+🧑‍💻 Full-stack engineer with backend bias
+🤖 Building AI-integrated developer platforms
+🎮 League of Legends between debugging sessions
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:chauhanadarshrtp29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-chauhan-yug/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ Open to collaborations on AI tools, full-stack platforms, and research-driven systems.
