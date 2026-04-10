@@ -75,18 +75,35 @@ Express
 Prisma ORM
 REST APIs
 Authentication Systems (JWT)
+Next Auth 
 
 ### Databases
 
 MongoDB
 PostgreSQL
 
-### DevOps & Systems
+### DevOps & Systems (Learning + Applying)
 
 Docker
 Kubernetes
 NGINX
 HTTPS Deployment Pipelines
+
+
+
+### Tools
+
+Zustand
+Axios 
+Zod
+Redux
+
+
+### Others
+
+Rust 
+
+
 
 ---
 
@@ -94,23 +111,6 @@ HTTPS Deployment Pipelines
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRIARC-08&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MRIARC-08/MRIARC-08/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🎃 Hacktoberfest Participation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge&logo=hacktoberfest"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github"/>
 </p>
 
 ---
